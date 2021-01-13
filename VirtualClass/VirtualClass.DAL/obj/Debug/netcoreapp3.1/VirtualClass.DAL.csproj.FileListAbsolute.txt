@@ -1,0 +1,12 @@
+C:\Users\Iryna Mertsalova\Desktop\Virtual class\VirtualClass\VirtualClass.DAL\bin\Debug\netcoreapp3.1\VirtualClass.DAL.deps.json
+C:\Users\Iryna Mertsalova\Desktop\Virtual class\VirtualClass\VirtualClass.DAL\bin\Debug\netcoreapp3.1\VirtualClass.DAL.dll
+C:\Users\Iryna Mertsalova\Desktop\Virtual class\VirtualClass\VirtualClass.DAL\bin\Debug\netcoreapp3.1\VirtualClass.DAL.pdb
+C:\Users\Iryna Mertsalova\Desktop\Virtual class\VirtualClass\VirtualClass.DAL\obj\Debug\netcoreapp3.1\VirtualClass.DAL.AssemblyInfoInputs.cache
+C:\Users\Iryna Mertsalova\Desktop\Virtual class\VirtualClass\VirtualClass.DAL\obj\Debug\netcoreapp3.1\VirtualClass.DAL.AssemblyInfo.cs
+C:\Users\Iryna Mertsalova\Desktop\Virtual class\VirtualClass\VirtualClass.DAL\obj\Debug\netcoreapp3.1\VirtualClass.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Iryna Mertsalova\Desktop\Virtual class\VirtualClass\VirtualClass.DAL\obj\Debug\netcoreapp3.1\VirtualClass.DAL.dll
+C:\Users\Iryna Mertsalova\Desktop\Virtual class\VirtualClass\VirtualClass.DAL\obj\Debug\netcoreapp3.1\VirtualClass.DAL.pdb
+C:\Users\Iryna Mertsalova\Desktop\Virtual class\VirtualClass\VirtualClass.DAL\bin\Debug\netcoreapp3.1\VirtualClass.DAL.runtimeconfig.json
+C:\Users\Iryna Mertsalova\Desktop\Virtual class\VirtualClass\VirtualClass.DAL\bin\Debug\netcoreapp3.1\VirtualClass.DAL.runtimeconfig.dev.json
+C:\Users\Iryna Mertsalova\Desktop\Virtual class\VirtualClass\VirtualClass.DAL\obj\Debug\netcoreapp3.1\VirtualClass.DAL.genruntimeconfig.cache
+C:\Users\Iryna Mertsalova\Desktop\Virtual class\VirtualClass\VirtualClass.DAL\obj\Debug\netcoreapp3.1\VirtualClass.DAL.csprojAssemblyReference.cache

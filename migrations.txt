@@ -1,0 +1,4 @@
+dotnet ef migrations add "Add Migration Begin" -c EFContext -p ../VirtualClass.DAL/VirtualClass.DAL.csproj -s VirtualClass.csproj
+
+dotnet ef database update -c EFContext -p ../VirtualClass.DAL/VirtualClass.DAL.csproj -s VirtualClass.csproj
+

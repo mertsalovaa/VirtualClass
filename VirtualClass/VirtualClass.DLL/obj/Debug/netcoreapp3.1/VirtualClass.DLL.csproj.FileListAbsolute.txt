@@ -1,0 +1,12 @@
+C:\Users\Iryna Mertsalova\Desktop\Virtual class\VirtualClass\VirtualClass.DLL\bin\Debug\netcoreapp3.1\VirtualClass.DLL.deps.json
+C:\Users\Iryna Mertsalova\Desktop\Virtual class\VirtualClass\VirtualClass.DLL\bin\Debug\netcoreapp3.1\VirtualClass.DLL.dll
+C:\Users\Iryna Mertsalova\Desktop\Virtual class\VirtualClass\VirtualClass.DLL\bin\Debug\netcoreapp3.1\VirtualClass.DLL.pdb
+C:\Users\Iryna Mertsalova\Desktop\Virtual class\VirtualClass\VirtualClass.DLL\bin\Debug\netcoreapp3.1\VirtualClass.DAL.dll
+C:\Users\Iryna Mertsalova\Desktop\Virtual class\VirtualClass\VirtualClass.DLL\bin\Debug\netcoreapp3.1\VirtualClass.DAL.pdb
+C:\Users\Iryna Mertsalova\Desktop\Virtual class\VirtualClass\VirtualClass.DLL\obj\Debug\netcoreapp3.1\VirtualClass.DLL.csprojAssemblyReference.cache
+C:\Users\Iryna Mertsalova\Desktop\Virtual class\VirtualClass\VirtualClass.DLL\obj\Debug\netcoreapp3.1\VirtualClass.DLL.AssemblyInfoInputs.cache
+C:\Users\Iryna Mertsalova\Desktop\Virtual class\VirtualClass\VirtualClass.DLL\obj\Debug\netcoreapp3.1\VirtualClass.DLL.AssemblyInfo.cs
+C:\Users\Iryna Mertsalova\Desktop\Virtual class\VirtualClass\VirtualClass.DLL\obj\Debug\netcoreapp3.1\VirtualClass.DLL.csproj.CoreCompileInputs.cache
+C:\Users\Iryna Mertsalova\Desktop\Virtual class\VirtualClass\VirtualClass.DLL\obj\Debug\netcoreapp3.1\VirtualClass.DLL.csproj.CopyComplete
+C:\Users\Iryna Mertsalova\Desktop\Virtual class\VirtualClass\VirtualClass.DLL\obj\Debug\netcoreapp3.1\VirtualClass.DLL.dll
+C:\Users\Iryna Mertsalova\Desktop\Virtual class\VirtualClass\VirtualClass.DLL\obj\Debug\netcoreapp3.1\VirtualClass.DLL.pdb
